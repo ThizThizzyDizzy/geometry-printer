@@ -1,9 +1,7 @@
 package geometryprinter.item.chemistry;
-import geometryprinter.Page;
 import geometryprinter.PageObject;
 import geometryprinter.item.Item;
 import geometryprinter.item.Setting;
-import geometryprinter.item.SettingBoolean;
 import geometryprinter.item.SettingInt;
 import java.awt.Color;
 import java.awt.Dimension;

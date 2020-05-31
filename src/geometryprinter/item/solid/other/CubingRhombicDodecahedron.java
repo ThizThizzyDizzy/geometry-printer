@@ -4,7 +4,6 @@ import geometryprinter.item.Item;
 import geometryprinter.item.ItemFractured;
 import geometryprinter.item.Setting;
 import geometryprinter.item.SettingLength;
-import geometryprinter.item.solid.platonic.Cube;
 import java.util.ArrayList;
 public class CubingRhombicDodecahedron extends ItemFractured{
     private int size;

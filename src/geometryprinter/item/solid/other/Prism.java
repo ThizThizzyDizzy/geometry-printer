@@ -5,7 +5,6 @@ import geometryprinter.item.ItemFractured;
 import geometryprinter.item.Setting;
 import geometryprinter.item.SettingInt;
 import geometryprinter.item.SettingLength;
-import geometryprinter.item.flat.IsoscelesTriangleArray;
 import geometryprinter.item.flat.Polygon;
 import geometryprinter.item.flat.Rectangle;
 import java.util.ArrayList;

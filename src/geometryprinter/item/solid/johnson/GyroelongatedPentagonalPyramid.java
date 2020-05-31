@@ -6,7 +6,6 @@ import geometryprinter.item.Setting;
 import geometryprinter.item.SettingLength;
 import geometryprinter.item.flat.EquilateralTriangleArray;
 import geometryprinter.item.flat.Polygon;
-import geometryprinter.item.flat.Rectangle;
 import java.util.ArrayList;
 public class GyroelongatedPentagonalPyramid extends ItemFractured{
     private int size;

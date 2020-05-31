@@ -17,23 +17,23 @@ public class MenuChemistry extends MenuList{
                 gui.open(new MenuAddItem(gui, that, new Buckyball()));
             }
         });
-        addButton("Add Periodic Table", new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e){
-                gui.open(new MenuAddItem(gui, that, new PeriodicTable()));
-            }
-        });
-        addButton("Add Solubility Rules", new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e){
-                gui.open(new MenuAddItem(gui, that, new SolubilityRules()));
-            }
-        });
-        addButton("Add Polyatomic Ion Sheet", new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e){
-                gui.open(new MenuAddItem(gui, that, new PolyatomicIonSheet()));
-            }
-        });
+//        addButton("Add Periodic Table", new ActionListener() {
+//            @Override
+//            public void actionPerformed(ActionEvent e){
+//                gui.open(new MenuAddItem(gui, that, new PeriodicTable()));
+//            }
+//        });
+//        addButton("Add Solubility Rules", new ActionListener() {
+//            @Override
+//            public void actionPerformed(ActionEvent e){
+//                gui.open(new MenuAddItem(gui, that, new SolubilityRules()));
+//            }
+//        });
+//        addButton("Add Polyatomic Ion Sheet", new ActionListener() {
+//            @Override
+//            public void actionPerformed(ActionEvent e){
+//                gui.open(new MenuAddItem(gui, that, new PolyatomicIonSheet()));
+//            }
+//        });
     }
 }
